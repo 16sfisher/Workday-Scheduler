@@ -1,0 +1,14 @@
+.dailyPlan {
+    color: black;
+    font-size: 12pt;
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+    padding: 10px;
+}
+
+.footer {
+    margin-top: 20px;
+}
