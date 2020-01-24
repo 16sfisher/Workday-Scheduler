@@ -7,8 +7,10 @@
 
 .row {
     padding: 10px;
+    border-top: 1px solid black;
 }
 
-.footer {
-    margin-top: 20px;
+body {
+    padding-bottom: 100px;
+    font-family: fantasy, cursive, sans-serif;
 }
